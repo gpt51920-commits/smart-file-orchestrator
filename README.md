@@ -5,7 +5,8 @@ A lightweight Python background automation tool for secure system-level file orc
 A lightweight, production-ready Python automation tool designed to manage, filter, and clean up messy corporate directories and digital workspaces without dragging down operating system performance.
 
 ## 🎯 The Business Case
-Digital marketing agencies, media hubs, and performance teams drown in gigabytes of daily assets (videos, banners, briefs, and logs). Standard automation scripts often lock up the system UI or crash due to Windows permission deadlocks when dealing with massive folders. 
+Digital marketing agencies, media hubs, and performance teams drown in gigabytes of daily assets (videos, banners, briefs, and logs). Standard automation scripts often lock up the system UI or crash due to Windows
+ permission deadlocks when dealing with massive folders. 
 
 This orchestrator runs entirely in the background, bypasses UI layers, and safely handles OS-level constraints to keep infrastructure stable.
 
